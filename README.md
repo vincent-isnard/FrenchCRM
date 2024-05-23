@@ -21,5 +21,4 @@ Editing (average duration of ~2s), filtering from 80 Hz to 8 kHz.
 
 Validation on a speech-on-speech intelligibility task.
 
-
 See the attached article for more details.
