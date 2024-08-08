@@ -9,13 +9,13 @@ French-native talkers.
 
 Original recordings
 -------------------
-Resolution of 16 bits and sampling frequency of 48 kHz.
+Resolution of 16 bits and sampling frequency of 44.1 kHz.
 
 No editing, no filtering.
 
 Validated corpus
 ----------------
-Resolution of 16 bits and sampling frequency of 48 kHz.
+Resolution of 16 bits and sampling frequency of 44.1 kHz.
 
 Editing (average duration of ~2s), filtering from 80 Hz to 8 kHz.
 
